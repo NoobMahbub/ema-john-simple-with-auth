@@ -24,7 +24,10 @@ margin-top: 7px;
 
 }
 .product-info{
-    margin: 0 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2px;
 }
 .product-info p{
     margin-bottom: 0;
